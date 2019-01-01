@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-![](public/images/headshot_square.jpg)
+![]({{ site.url }}{{ site.baseurl }}public/images/headshot_square.jpg)
 
 Welcome! I am a Ph.D. student in the department of political science at the University of Notre Dame, where I do research in the areas of comparative political theory (CPT) and public law.
 
