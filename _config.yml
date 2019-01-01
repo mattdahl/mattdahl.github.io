@@ -22,9 +22,6 @@ author:
   name:           'Matthew Dahl'
   url:            https://matthewdahl.me
 
-paginate:         5
-
 # Gems
 plugins:
 - jekyll-gist
-- jekyll-paginate
