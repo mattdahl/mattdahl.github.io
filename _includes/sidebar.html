@@ -1,0 +1,22 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <h2>(譚孟德)</h2>
+    </div>
+
+    <br />
+    <br />
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.links.index %} active{% endif %}" href="{{ site.links.index }}">About</a>
+      <a class="sidebar-nav-item{% if page.url == site.links.research %} active{% endif %}" href="{{ site.links.research }}">Research</a>
+      <a class="sidebar-nav-item{% if page.url == site.links.cv %} active{% endif %}" href="{{ site.links.cv }}">CV</a>
+      <a class="sidebar-nav-item{% if page.url == site.links.contact %} active{% endif %}" href="{{ site.links.contact }}">Contact</a>
+    </nav>
+  </div>
+</div>

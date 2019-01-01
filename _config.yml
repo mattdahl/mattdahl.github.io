@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Matthew Dahl
+tagline:          'Ph.D. Student at the University of Notre Dame'
+description:      'Ph.D. Student at the University of Notre Dame'
+url:              http://matthewdahl.me
+baseurl:          /
+
+links:
+  index:          /
+  cv:             /cv/
+  research:       /research/
+  contact:        /contact/
+
+author:
+  name:           'Matthew Dahl'
+  url:            https://matthewdahl.me
+
+paginate:         5
+
+# Gems
+plugins:
+- jekyll-gist
+- jekyll-paginate
