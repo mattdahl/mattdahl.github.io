@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Matthew Dahl
 tagline:          'Ph.D. Student at the University of Notre Dame'
 description:      'Ph.D. Student at the University of Notre Dame'
-url:              https://mattdahl.github.io/matthewdahl
-baseurl:          /
+url:              https://mattdahl.github.io
+baseurl:          /matthewdahl/
 
 links:
   index:          /
@@ -20,7 +20,7 @@ links:
 
 author:
   name:           'Matthew Dahl'
-  url:            https://mattdahl.github.io/matthewdahl
+  url:            https://mattdahl.github.io
 
 # Gems
 plugins:
