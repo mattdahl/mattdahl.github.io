@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Matthew Dahl
 tagline:          'Ph.D. Student at the University of Notre Dame'
 description:      'Ph.D. Student at the University of Notre Dame'
-url:              http://matthewdahl.me
+url:              https://mattdahl.github.io/matthewdahl
 baseurl:          /
 
 links:
@@ -20,7 +20,7 @@ links:
 
 author:
   name:           'Matthew Dahl'
-  url:            https://matthewdahl.me
+  url:            https://mattdahl.github.io/matthewdahl
 
 # Gems
 plugins:
