@@ -49,6 +49,11 @@ img {
   float: left;
   margin-right: 35px;
 }
+@media (max-width: 500px) {
+  img {
+    max-width: 40%;
+  }
+}
 
 
 /*
