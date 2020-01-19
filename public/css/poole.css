@@ -222,9 +222,10 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;
 }
-@media (min-width: 30em) {
+@media (max-width: 500px) {
   blockquote {
-    padding-left: 1.25rem;
+    padding-left: 0;
+    border-left: 0;
   }
 }
 

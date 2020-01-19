@@ -3,6 +3,16 @@ layout: page
 title: Research
 ---
 
-Within CPT, my current research investigates Heidegger's encounter with Asian philosophy in the mid-twentieth century. I am particularly interested in the following topics: Heidegger's idea of Way (*der Weg*) vis-à-vis the Daoist idea of *dao* 道, Heidegger's idea of the Fourfold (*das Geviert*) vis-à-vis the Daoist idea of the Four Greats (*sida* 四大), and Heidegger's idea of sojourning (*Aufenthalt*) vis-à-vis the critique of travel presented in the *Dao De Jing*.
+Within CPT, my current research investigates Heidegger's encounter with Asian philosophy in the mid-twentieth century. Working papers include:
 
-Within public law, my current research focuses on the role of legal doctrine on the U.S. Supreme Court. Among other things, I'm using natural language processing to develop new scaling mechanisms that estimate judicial outcomes in novel ways (i.e., along jurisprudential dimensions instead of ideological ones). Code for some of my ongoing projects is available on my [GitHub page](https://github.com/mattdahl).
+>
+- **"More than Method: Laozi, Heidegger, and the Ontology of Comparative Political Theory."** Rehabilitating Laozi's idea of *dao* (道) and Heidegger's idea of Way (*der Weg*), I argue that contemporary CPT must undertake an "ontological turn."
+- **"Should Theorists Travel? Heidegger and Laozi's Critique of Comparative Political Theory."** Analyzing a letter sent by Heidegger in 1965, I argue that the Daoist conception of travel offers a useful corrective to the current "ethnographic wave" that has swept recent political theory.
+
+
+Within public law, my current research focuses on the role of legal theory on the U.S. Supreme Court. Working papers include:
+
+>
+- **"Does Theory Matter? Testing the Influence of Constitutional Theory on Specific and Diffuse Support for the U.S. Supreme Court."** With Matthew E.K. Hall. Invoking some of the leading scholars of constitutional theory (Dworkin, Epstein, Barnett, etc.), we put their normative claims about their preferred methods of constitutional interpretation to the empirical test.
+- **"Natural Language Evidence for the Existence and Effect of Jurisprudential Regimes."** With Matthew E.K. Hall. Using the tools of natural language processing (NLP), we present new evidence for the effect that legal doctrine has on the voting behavior of Supreme Court justices.
+- **Code for some of my side projects** is available on my [GitHub page](https://github.com/mattdahl).
