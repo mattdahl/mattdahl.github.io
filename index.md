@@ -9,4 +9,4 @@ Welcome! I am a Ph.D. student in the department of political science at the Univ
 
 Prior to coming to Notre Dame, I received my B.A. in political science from Pomona College.
 
-I am originally from Newton, Massachusetts.
+Before that, I spent my formative years in Newton, Massachusetts.
