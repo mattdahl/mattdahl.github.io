@@ -7,7 +7,8 @@ Within public law, my current research focuses on the role of legal doctrine on 
 
 >
 - **"Does Theory Matter? Testing the Influence of Constitutional Theory on Specific and Diffuse Support for the U.S. Supreme Court."** With Matthew E.K. Hall. Invoking some of the leading scholars of constitutional theory (Dworkin, Posner, Barnett, etc.), we put their normative claims about their preferred methods of constitutional interpretation to the empirical test.
-- **"Natural Language Evidence for the Existence and Effect of Jurisprudential Regimes."** Using the tools of natural language processing (NLP), I present new evidence for the way that legal doctrine affects the voting behavior of Supreme Court justices.
+- **"Natural Language Evidence for the Existence and Effect of Jurisprudential Regimes."** With Matthew E.K. Hall. Using the tools of natural language processing (NLP), we present new evidence for the way that legal doctrine constrains the voting behavior of Supreme Court justices.
+- **"Dogma Within? Testing the Effect of Religious Affiliation on Statutory Decision-Making."** With Sarah M. Karchunas, Devan N. Patel, and Matthew E.K. Hall. Analyzing the etiology of religious influence on the judiciary, we debunk the popular myth that sectarian judges vote dogmatically according to their faith beliefs.
 - **Code for some of my side projects** is available on my [GitHub page](https://github.com/mattdahl).
 
 Within CPT, my current research investigates Heidegger's encounter with Asian philosophy in the mid-twentieth century. Working papers include:
