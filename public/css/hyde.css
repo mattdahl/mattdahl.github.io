@@ -56,6 +56,22 @@ img {
 }
 
 
+.mobile_visible {
+    display: none;
+}
+.mobile_invisible {
+    display: block;
+}
+@media (max-width: 500px) {
+    .mobile_visible {
+        display: block;
+    }
+    .mobile_invisible {
+        display: none;
+    }
+}
+
+
 /*
  * Sidebar
  *
